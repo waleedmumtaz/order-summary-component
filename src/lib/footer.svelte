@@ -1,6 +1,6 @@
 <footer>
   <div
-    class="text-center p-3 bg-slate-600 text-white w-fit mx-auto rounded-t-lg mt-10"
+    class="text-center p-3 border-2 border-b-0 border-cstm-primary-bright-blue bg-cstm-primary-bright-blue bg-opacity-5 text-black w-fit mx-auto rounded-t-lg mt-10"
   >
     <p>
       Challenge by <a
