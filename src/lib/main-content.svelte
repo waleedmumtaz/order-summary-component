@@ -1,11 +1,11 @@
 <main class="flex-1 flex flex-col justify-center">
-  <div class="my-20">
+  <div class="my-20 md:max-w-lg md:mx-auto">
     <img
       src="/assets/illustration-hero.svg"
       alt="hero"
       class="w-full rounded-t-3xl"
     />
-    <div class="p-5 bg-white rounded-b-3xl text-center">
+    <div class="p-5 md:p-12 md:pt-5 bg-white rounded-b-3xl text-center">
       <h1 class="text-2xl font-black py-5">Order Summary</h1>
       <p class="text-cstm-neutral-desaturated-blue max-w-xs mx-auto px-3">
         You can now listen to millions of songs, audiobooks, and podcasts on any
