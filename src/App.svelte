@@ -17,7 +17,7 @@
 </svelte:head>
 
 <div
-  class="min-h-screen flex flex-col bg-[url(/assets/pattern-background-mobile.svg)] md:bg-[url(/assets/pattern-background-desktop.svg)] bg-no-repeat bg-cstm-primary-pale-blue px-5 font-red-hat-display"
+  class="min-h-screen flex flex-col bg-[url(/assets/pattern-background-mobile.svg)] md:bg-[url(/assets/pattern-background-desktop.svg)] bg-no-repeat bg-contain bg-cstm-primary-pale-blue px-5 font-red-hat-display"
 >
   <MainContent />
   <Footer />
